@@ -21,6 +21,7 @@ group :development do
   gem 'spring-watcher-listen', '2.0.1'
   gem 'rspec-rails'
   gem 'spring-commands-rspec'
+  gem 'guard-rspec', require: false
 end
 
 group :test do
